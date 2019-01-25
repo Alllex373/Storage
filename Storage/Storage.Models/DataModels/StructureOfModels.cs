@@ -8,7 +8,7 @@ namespace Storage.Models.DataModels
 {
     public abstract class StructureOfModels
     {
-        DateTime data = new DateTime();
+        public DateTime data = new DateTime();
 
         public  int Amount { get; set; }
 
