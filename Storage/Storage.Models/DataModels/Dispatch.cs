@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Storage.Models
+namespace Storage.Models.DataModels
 {
-    public class Class1
+    public class Dispatch : StructureOfModels
     {
+       
     }
 }
